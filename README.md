@@ -1,72 +1,117 @@
-Hi, I'm M Ibrar 
-Full Stack Developer | MERN Stack | Python
-I'm a Full Stack Developer with 6+ years of experience building
-scalable web applications, RESTful APIs, and microservices. My main
-focus is the MERN stack, with additional experience in Python,
-Django, Flask, and FastAPI.
+# Hi there, I'm M Ibrar 
 
-I enjoy building reliable backend systems, responsive user interfaces,
-API integrations, and cloud-deployed applications. I've also worked on
-AI-powered features, data extraction systems, and workflow automation.
- Tech Stack
-Frontend - React.js, Next.js, Redux - JavaScript, TypeScript -
-HTML5, CSS3, Bootstrap, Tailwind CSS
+###  Full Stack Developer | MERN Stack | React & Node Developer
 
-Backend - Node.js, Express.js - Python, Django, Flask, FastAPI -
-REST APIs, GraphQL, WebSockets - Microservices and asynchronous
-processing
+I'm a passionate **Full Stack Developer with 6+ years of experience** building scalable, secure, and high-performance web applications, RESTful APIs, and microservices.
 
-Databases & Data - MongoDB, PostgreSQL, MySQL - Redis,
-Elasticsearch - Pandas, NumPy, Seaborn
+My primary expertise is in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, along with experience in Python, Django, Flask, and FastAPI.
 
-Cloud & DevOps - AWS, Google Cloud Platform (GCP) - Docker,
-Kubernetes - CI/CD, GitHub Actions - Linux
+I enjoy developing modern web applications, designing backend architectures, integrating APIs, and working with cloud technologies and AI-powered solutions.
 
-Tools - Git, Jira, Postman, Thunder Client
-Experience Highlights
-- Built and maintained full-stack applications using MongoDB,
-  Express.js, React.js, and Node.js.
-- Designed RESTful APIs, microservices, and asynchronous backend
-  services.
-- Developed backend services with Python and FastAPI, and worked with
-  Django and Flask.
-- Built responsive React applications with reusable components and
-  state management.
-- Worked with MongoDB, PostgreSQL, MySQL, Redis, and Elasticsearch.
-- Implemented authentication and authorization using JWT and
-  role-based access control.
-- Used Docker, Kubernetes, and CI/CD pipelines for application
-  deployment.
-- Worked with AWS and GCP cloud infrastructure.
-- Integrated AI/LLM features, NLP and machine-learning solutions into
-  applications.
-- Built web scraping and data extraction systems using Scrapy and
-  Selenium.
-   Selected Projects
-Healthcare Patient Management Platform
-- Developed a MERN-based platform for patient records, appointment
-  scheduling, and telehealth.
-- Built REST APIs and role-based access controls for secure data
-  handling.
-- Integrated notifications, billing workflows, and reporting
-  dashboards.
-AI-Based Healthcare Analytics System
-- Built an analytics platform with a React dashboard for patient
-  trends and healthcare insights.
-- Integrated predictive models into production APIs.
-- Created dashboards for patient analytics and operational metrics.
-- Used Docker and Kubernetes for scalable deployment and CI/CD.
-FinTech Digital Payment Platform
-- Developed digital payment and transaction-processing features using
-  Node.js, Express.js, and React.js.
-- Integrated payment gateways, fraud-detection workflows, and
-  transaction monitoring.
-- Built APIs and microservices for high-volume transaction processing.
-   Education
-Bachelor's in Software Engineering Technology
+---
+
+##  Technical Skills
+
+### Frontend Development
+- React.js, Next.js
+- JavaScript, TypeScript
+- Redux
+- HTML5, CSS3
+- Bootstrap, Tailwind CSS
+
+### Backend Development
+- Node.js, Express.js
+- Python, Django, Flask, FastAPI
+- RESTful APIs
+- GraphQL, WebSockets
+- Microservices Architecture
+
+### Databases
+- MongoDB
+- PostgreSQL
+- MySQL
+- Redis
+- Elasticsearch
+
+### Cloud & DevOps
+- AWS
+- Google Cloud Platform (GCP)
+- Docker
+- Kubernetes
+- CI/CD
+- GitHub Actions
+- Linux
+
+### AI & Data Technologies
+- AI/LLM Integrations
+- NLP
+- Machine Learning
+- Pandas, NumPy
+- Web Scraping (Scrapy, Selenium)
+- RPA & Workflow Automation
+
+### Tools
+- Git & GitHub
+- Jira
+- Postman
+- Thunder Client
+
+---
+
+##  Professional Experience
+
+- 6+ years of experience in full-stack web development.
+- Building scalable applications using the MERN stack.
+- Developing backend services and APIs using Node.js and Python.
+- Designing and implementing microservices architectures.
+- Optimizing database queries and application performance.
+- Implementing secure authentication and authorization.
+- Deploying applications using AWS, GCP, Docker, and Kubernetes.
+- Integrating AI-powered features and automation solutions.
+- Collaborating with Agile/Scrum development teams.
+
+---
+
+##  Featured Projects
+
+###  Healthcare Patient Management Platform
+- Developed a MERN-based healthcare management platform.
+- Implemented patient records and appointment scheduling.
+- Built secure REST APIs and role-based access control.
+- Integrated notifications, billing workflows, and reporting dashboards.
+
+###  AI-Based Healthcare Analytics System
+- Developed an AI-powered healthcare analytics platform.
+- Integrated predictive machine learning models into APIs.
+- Created interactive dashboards for healthcare insights.
+- Implemented scalable cloud deployment and CI/CD pipelines.
+
+###  FinTech Digital Payment Platform
+- Developed secure digital payment and transaction processing systems.
+- Integrated payment gateways and fraud detection workflows.
+- Built scalable APIs and microservices.
+- Implemented secure authentication and encryption.
+
+---
+
+##  Education
+
+**Bachelor's in Software Engineering Technology**
+
 Punjab Tianjin University of Technology, Pakistan
-  Connect With Me
-- Email: m08ibrar@gmail.com
-- LinkedIn:
-  linkedin.com/in/m-ibrar-461267445
-- GitHub: github.com/9819140
+
+---
+
+##  Connect With Me
+
+-  Email: m08ibrar@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/m-ibrar-461267445/
+-  GitHub: https://github.com/9819140
+
+---
+
+###  What I'm Looking For
+
+I'm interested in remote international opportunities, challenging projects, and collaborations where I can contribute my skills in MERN Stack, Python, backend development, cloud technologies, and AI integrations.
+
+**Let's build something great together! **
