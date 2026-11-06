@@ -1,49 +1,72 @@
-# Hi, I'm M Ibrar 
+Hi, I'm M Ibrar 
+Full Stack Developer | MERN Stack | Python
+I'm a Full Stack Developer with 6+ years of experience building
+scalable web applications, RESTful APIs, and microservices. My main
+focus is the MERN stack, with additional experience in Python,
+Django, Flask, and FastAPI.
 
-###  Software Engineer | Full-Stack Developer | AI & Automation Enthusiast
+I enjoy building reliable backend systems, responsive user interfaces,
+API integrations, and cloud-deployed applications. I've also worked on
+AI-powered features, data extraction systems, and workflow automation.
+ Tech Stack
+Frontend - React.js, Next.js, Redux - JavaScript, TypeScript -
+HTML5, CSS3, Bootstrap, Tailwind CSS
 
-I'm a **Software Engineer with 4+ years of professional experience** building scalable web applications, high-performance backend systems, microservices, and AI-powered solutions.
+Backend - Node.js, Express.js - Python, Django, Flask, FastAPI -
+REST APIs, GraphQL, WebSockets - Microservices and asynchronous
+processing
 
-I specialize in Python-based backend development, modern frontend technologies, AI/ML integrations, and cloud infrastructure. I enjoy solving complex engineering problems and transforming ideas into reliable, production-ready applications.
+Databases & Data - MongoDB, PostgreSQL, MySQL - Redis,
+Elasticsearch - Pandas, NumPy, Seaborn
 
-###  Tech Stack
+Cloud & DevOps - AWS, Google Cloud Platform (GCP) - Docker,
+Kubernetes - CI/CD, GitHub Actions - Linux
 
-- **Languages:** Python, JavaScript, SQL, HTML, CSS
-- **Backend:** Django, Flask, FastAPI, REST APIs, Microservices
-- **Frontend:** React.js, Redux, Bootstrap
-- **AI & Machine Learning:** LLMs, NLP, Scikit-learn, TensorFlow, OpenCV
-- **Data Science:** Pandas, NumPy, SciPy, Matplotlib
-- **Databases:** PostgreSQL, MySQL, Redis, Elasticsearch
-- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, CI/CD, GitHub Actions
-- **Automation & Scraping:** Selenium, Scrapy, BeautifulSoup, RPA
-- **Tools:** Git, GitHub, Linux, Postman, Jira
-
-###  What I Do
-
-- Build scalable full-stack web applications and RESTful APIs.
-- Design microservices and optimize backend performance.
-- Integrate AI, machine learning, NLP, and LLM-powered features.
-- Develop automated workflows, data pipelines, and web scraping systems.
-- Deploy and manage cloud-based applications using Docker, Kubernetes, and CI/CD.
-- Design reliable database systems and optimize queries for performance.
-
-###  Featured Projects
-
-- **Healthcare Patient Management Platform** — Secure patient records, appointment scheduling, telehealth, and reporting.
-- **AI-Based Healthcare Analytics System** — Machine learning pipelines, predictive analytics, and interactive dashboards.
-- **FinTech Digital Payment Platform** — Payment integrations, transaction monitoring, fraud detection workflows, and scalable APIs.
-
-###  Current Focus
-
-Building scalable software solutions, exploring practical AI integrations, improving system architecture, and automating complex business workflows.
-
-###  Let's Connect
-
-Email: m08ibrar@gmail.com  
-Location: Pakistan
-
-I'm always interested in collaborating on innovative software projects, AI-powered applications, and challenging engineering problems remotely .
-
----
-
- *Building reliable software, one solution at a time.*
+Tools - Git, Jira, Postman, Thunder Client
+Experience Highlights
+- Built and maintained full-stack applications using MongoDB,
+  Express.js, React.js, and Node.js.
+- Designed RESTful APIs, microservices, and asynchronous backend
+  services.
+- Developed backend services with Python and FastAPI, and worked with
+  Django and Flask.
+- Built responsive React applications with reusable components and
+  state management.
+- Worked with MongoDB, PostgreSQL, MySQL, Redis, and Elasticsearch.
+- Implemented authentication and authorization using JWT and
+  role-based access control.
+- Used Docker, Kubernetes, and CI/CD pipelines for application
+  deployment.
+- Worked with AWS and GCP cloud infrastructure.
+- Integrated AI/LLM features, NLP and machine-learning solutions into
+  applications.
+- Built web scraping and data extraction systems using Scrapy and
+  Selenium.
+   Selected Projects
+Healthcare Patient Management Platform
+- Developed a MERN-based platform for patient records, appointment
+  scheduling, and telehealth.
+- Built REST APIs and role-based access controls for secure data
+  handling.
+- Integrated notifications, billing workflows, and reporting
+  dashboards.
+AI-Based Healthcare Analytics System
+- Built an analytics platform with a React dashboard for patient
+  trends and healthcare insights.
+- Integrated predictive models into production APIs.
+- Created dashboards for patient analytics and operational metrics.
+- Used Docker and Kubernetes for scalable deployment and CI/CD.
+FinTech Digital Payment Platform
+- Developed digital payment and transaction-processing features using
+  Node.js, Express.js, and React.js.
+- Integrated payment gateways, fraud-detection workflows, and
+  transaction monitoring.
+- Built APIs and microservices for high-volume transaction processing.
+   Education
+Bachelor's in Software Engineering Technology
+Punjab Tianjin University of Technology, Pakistan
+  Connect With Me
+- Email: m08ibrar@gmail.com
+- LinkedIn:
+  linkedin.com/in/m-ibrar-461267445
+- GitHub: github.com/9819140
